@@ -26,8 +26,8 @@
 <li>
 <p><a href="https://www.scanmatic.com/mooring-line-integrity-monitoring/">Mooring Line Integrity Monitoring - Scanmatic</a></p>
 </li>
-<li>
-<p><a href="#%E7%BB%B4%E6%8B%89%E9%87%8C%E6%95%88%E5%BA%94%E7%B3%BB%E6%B3%8A%E9%94%9A%E9%93%BE%E5%BC%A0%E5%8A%9B%E4%BC%A0%E6%84%9F%E5%99%A8">New Idea</a></p>
+<li class="task-list-item">
+<p><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> <a href="#%E7%BB%B4%E6%8B%89%E9%87%8C%E6%95%88%E5%BA%94%E7%B3%BB%E6%B3%8A%E9%94%9A%E9%93%BE%E5%BC%A0%E5%8A%9B%E4%BC%A0%E6%84%9F%E5%99%A8"><mark>New Idea</mark></a></p>
 </li>
 </ol>
 <p>以下是目前市场认可的 mooring line tension monitoring system（系泊缆绳张力监测系统）的主流技术原理、关键参数和系统特点的详细说明。</p>
