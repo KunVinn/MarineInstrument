@@ -26,6 +26,9 @@
 <li>
 <p><a href="https://www.scanmatic.com/mooring-line-integrity-monitoring/">Mooring Line Integrity Monitoring - Scanmatic</a></p>
 </li>
+<li>
+<p><a href="#%E7%BB%B4%E6%8B%89%E9%87%8C%E6%95%88%E5%BA%94%E7%B3%BB%E6%B3%8A%E9%94%9A%E9%93%BE%E5%BC%A0%E5%8A%9B%E4%BC%A0%E6%84%9F%E5%99%A8">New Idea</a></p>
+</li>
 </ol>
 <p>以下是目前市场认可的 mooring line tension monitoring system（系泊缆绳张力监测系统）的主流技术原理、关键参数和系统特点的详细说明。</p>
 <h3 id="一、-主流技术原理">一、 主流技术原理</h3>
@@ -293,6 +296,7 @@
 </tr>
 </tbody>
 </table><p>对于新建项目或系统升级，<strong>采用基于声学通信和长效电池的无线传感器网络是目前业界克服传输线困难的首选和主流方向</strong>。</p>
+<hr>
 <h1 id="维拉里效应系泊锚链张力传感器">维拉里效应系泊锚链张力传感器</h1>
 <p>将锚链的张力变化直接转换为可测量的声波信号，这为单点系泊系统的实时、无线监测提供了一条很好的技术路径。根据您的需求，我为您梳理了一套可行的技术方案和关键考量。</p>
 <h3 id="🔩-工作原理与技术实现">🔩 工作原理与技术实现</h3>
